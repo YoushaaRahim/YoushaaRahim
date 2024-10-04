@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoushaaRahim
-- 👀 I’m interested in becoming python developer
+- 👀 I’m interested in becoming Python developer
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on some beginner's projects
 - 📫 How to reach me ...
